@@ -12,6 +12,7 @@ root.render(
     <App />
     <Header />
     <Mi />
+  
   </React.StrictMode>
 );
 
