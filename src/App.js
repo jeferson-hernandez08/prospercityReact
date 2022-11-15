@@ -23,7 +23,7 @@ function App() {
       </header>
 
       <div className='container'>
-          <h1>Team fortnite</h1>
+          <h1 className='titulo'>Team Fortnite Prospercity</h1>
         <div className='cards'>
         <Nosotros/>
         </div>
