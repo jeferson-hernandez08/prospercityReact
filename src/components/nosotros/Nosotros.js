@@ -35,7 +35,7 @@ function Nosotros() {
               linkedin='https://www.linkedin.com/in/sebasti%C3%A1n-valencia-grajales-/'
             /></div>
             <div className='card'><Fortnite 
-              nombre='Sebastian Valencia'
+              nombre='Jeferson Hernandez Ladino'
               pais='Colombia'
               imagen='https://media-exp1.licdn.com/dms/image/D4E03AQEgmFtRp5bwww/profile-displayphoto-shrink_800_800/0/1668395295736?e=1674086400&v=beta&t=HE1JQ4670ExRmwbNNZWqhHARQeXpCWKuAFfPNwRN8XM'
               cargo= 'Sotware Developer' 
