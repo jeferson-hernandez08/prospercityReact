@@ -8,9 +8,9 @@ function Nosotros() {
     <>
         <div className='principal'>
             <div className='card'><Fortnite 
-              nombre='Maria Camila'
+              nombre='Maria Camila Ospina'
               pais='Colombia'
-              imagen='https://media-exp1.licdn.com/dms/image/D4D03AQHovk79gS5aaQ/profile-displayphoto-shrink_800_800/0/1668439843037?e=1674086400&v=beta&t=374h9MBfVcMth-OzZnU11q07cGO1hZlfGxGHj6Vjycc'
+              imagen='https://media-exp1.licdn.com/dms/image/D4D03AQElVRTp5CLWjg/profile-displayphoto-shrink_800_800/0/1668715003814?e=1674086400&v=beta&t=nuV54D-cMnA7UGD3yXaGJOy2ce8N3J61dSjgml7bMM0'
               cargo= 'Sotware Developer' 
               presentacion= 'fewrgs fgte gr tzyh jthdzr gh tsdzr fz htr setryh txdrs gxhdzrszt ythrt yht tet rdthrtse rdhtd rtsdth rtdthxfj thyrtydthxj thrthtt rthgjght rhtdgxfhfhtr hgftrydthgf trdthgf rhg rthgfj ghtythjh tyfj tyd fjtyd fjhfty dfjty rtfj tyfjhg jyt fjhgjfty'
               github= 'https://github.com/maria-betancourth'

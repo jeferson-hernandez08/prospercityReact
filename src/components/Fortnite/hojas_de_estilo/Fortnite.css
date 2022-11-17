@@ -49,6 +49,7 @@
 .container {
     display: block;
     
+    
 }
 .foto-perfil {
     width: 250px;
@@ -57,4 +58,14 @@
 
 a>img{
     width: 30px;
+}
+
+.redesSociales {
+    display: flex;
+    justify-content: center;
+    align-content: flex-end;
+}
+
+.datos {
+    height: 450px;   
 }

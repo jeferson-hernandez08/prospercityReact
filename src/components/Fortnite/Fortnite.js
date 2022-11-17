@@ -5,14 +5,14 @@ function Fortnite(props){
   return(
 
     <div className='container'>
-      <div>
+      <div className='datos'>
         <img
         className='foto-perfil'
         src={props.imagen}
         />
         <p>{props.nombre}</p>
       </div>
-      <div>
+      <div className='redesSociales'>
         <a href={`${props.linkedin}`}><img src={require("./imagenes/icono-linkedin.png")}
            alt=""/></a>
         <a href={`${props.github}`}><img src={require("./imagenes/icono-github.png")}
